@@ -24,6 +24,8 @@ Color-Palette-Picker/
 │── index.html
 │── style.css
 │── script.js
+│── locked and copied.png
+│── save.png
 └── README.md
 ```
 
